@@ -1,0 +1,7 @@
+Used for CSE122 HW#4, calcualtes the total switching frequency of variations of
+the 4-input OR-gate and prints the input order with the lowest switching
+frequence.
+
+Written for CSE 122: Intorduction to VLSI Design
+Univesrity of California, Santa Cruz
+Brandon Kwe, 2/26/2021
